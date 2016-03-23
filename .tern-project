@@ -1,0 +1,10 @@
+{
+  "plugins": {
+    "complete_strings": {},
+    "doc_comment": {},
+    "node": {},
+    "node_resolve": {},
+    "es_modules": {}
+  },
+  "ecmaVersion": 6
+}

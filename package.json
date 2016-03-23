@@ -1,0 +1,28 @@
+{
+  "name": "atomicpug",
+  "version": "0.0.1",
+  "description": "Atomic design applied to jade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pldiiw/atomicpug.git"
+  },
+  "keywords": [
+    "atomic",
+    "design",
+    "jade",
+    "pug"
+  ],
+  "author": "PLD",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/pldiiw/atomicpug/issues"
+  },
+  "homepage": "https://github.com/pldiiw/atomicpug#readme",
+  "dependencies": {
+    "jade": "^1.11.0"
+  }
+}
